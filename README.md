@@ -25,7 +25,8 @@ A beautifully designed app rating interface with seamless animations.
 ---
 
 ## 📽️ Preview  
-[![Watch the Video](https://img.youtube.com/vi/XXXXXX/0.jpg)](video_link_here)  
+https://github.com/user-attachments/assets/0b523fa0-4753-4c9a-9217-a33dd473bf46
+
 
 ---
 
